@@ -126,3 +126,8 @@ input[type="checkbox"],
 input[type="radio"]{
     cursor: pointer;
 }
+
+.dados-enviados{
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+}
