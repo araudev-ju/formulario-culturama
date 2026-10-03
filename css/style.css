@@ -131,7 +131,7 @@ input[type="tel"], input[type="file"]{
     margin-bottom: 0;
 }
 
-#phoneHelp, #describePhoto{
+small{
     display: inline-block;
     margin-bottom: 20px;
 }
