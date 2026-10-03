@@ -127,6 +127,15 @@ input[type="radio"]{
     cursor: pointer;
 }
 
+input[type="tel"], input[type="file"]{
+    margin-bottom: 0;
+}
+
+#phoneHelp, #describePhoto{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
 .dados-enviados{
     font-family: 'Fjalla One', sans-serif;
     text-align: center;
